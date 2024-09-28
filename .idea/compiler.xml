@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel target="23" />
+    <bytecodeTargetLevel target="23">
+      <module name="org.objpascalcommunity.pensees.main" target="22" />
+      <module name="org.objpascalcommunity.pensees.test" target="22" />
+      <module name="pensees" target="22" />
+    </bytecodeTargetLevel>
   </component>
 </project>

@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/pensees.iml" filepath="$PROJECT_DIR$/pensees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/org.objpascalcommunity.pensees.main.iml" filepath="$PROJECT_DIR$/.idea/modules/org.objpascalcommunity.pensees.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/org.objpascalcommunity.pensees.test.iml" filepath="$PROJECT_DIR$/.idea/modules/org.objpascalcommunity.pensees.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pensees.iml" filepath="$PROJECT_DIR$/.idea/modules/pensees.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/pensees.main.iml" filepath="$PROJECT_DIR$/.idea/modules/pensees.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/pensees.test.iml" filepath="$PROJECT_DIR$/.idea/modules/pensees.test.iml" />
     </modules>
